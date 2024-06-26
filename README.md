@@ -11,7 +11,7 @@ Code Mate is a real-time collaborative code editor built with React. Designed to
 
 ## Installation
 
-1. Clone the Repo
+1. Clone the Repository
 ```html
 git clone https://github.com/tanushri1506/Code-Mate.git
 ```
