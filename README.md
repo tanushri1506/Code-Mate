@@ -8,6 +8,7 @@ Code Mate is a real-time collaborative code editor built with React. Designed to
 3. Firebase: For real-time database and authentication.  
 4. Node.js: For the backend server, providing RESTful API services.  
 5. Express.js: Web application framework for Node.js to build robust APIs.
+6. Socket.io: For websocket-based real-time connections.
 
 ## Installation
 
