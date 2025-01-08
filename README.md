@@ -1,6 +1,10 @@
 # Code-Mate
 Code Mate is a real-time collaborative code editor built with React. Designed to facilitate seamless coding experiences, Code Mate allows multiple users to write, edit, and debug code together in real-time. Whether you're working on a group project, teaching a coding class, or conducting a code review, Code Mate provides the tools necessary for effective collaboration.
 
+## Screenshots
+![Screenshot](images/codemate1.png)
+![Screenshot](images/codemate2.png)
+
 ## Features
 
 - **Real-Time Collaboration:** Edit code simultaneously with multiple users, seeing changes in real-time.
